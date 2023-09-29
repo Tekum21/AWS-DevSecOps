@@ -1,4 +1,4 @@
-# AWS-DevSecOps
+# AWS-DevSecOps: Automation of a Security Agent Installation
 
 ## Infrastructure as code and Automation of a Security Agent Installation
 
